@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.5" height="15.5" viewBox="0 0 15.5 15.5">
+  <g id="Time" transform="translate(0.75 0.75)">
+    <g id="Time_Circle" data-name="Time Circle">
+      <path id="Stroke_1" data-name="Stroke 1" d="M14,7A7,7,0,1,1,7,0,7,7,0,0,1,14,7Z" fill="none" stroke="#676788" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M2.853,5.37,0,3.668V0" transform="translate(6.744 3.857)" fill="none" stroke="#676788" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
