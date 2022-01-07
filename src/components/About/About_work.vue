@@ -1,6 +1,6 @@
 <template>
   <div class="work-about">
-    <b-container class="bv-example-row pt-5 pb-5">
+    <b-container class="pt-5 pb-5">
 
   <b-row>
   <!-- ==========CONTENT========== -->
@@ -17,8 +17,8 @@
 <!-- ========IMG================== -->
     <b-col lg="6" md="12" sm="12" class=" order-lg-2 order-md-1 order-sm-1 d-flex align-items-center">
      <div class="img ">
-   <!--<img src="@/assets/Imgs/c.jpg"/>-->
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/ygsvAZVA6sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <img  src="@/assets/Imgs/c.jpg"/>
+  
     </div>
     </b-col>
   </b-row>
@@ -59,5 +59,6 @@ margin-right: 10px;
 }
 .img img{
 width: 100%;
+border-radius: 15px;
 }
 </style>

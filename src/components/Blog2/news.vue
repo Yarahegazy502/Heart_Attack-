@@ -27,7 +27,7 @@
                         </div>
                         
                         </div>
-                        <a href="#" class="bt" @click.prevent="posts()">Read more <img src="@/assets/Imgs/arrow-right.svg" class="arr" alt=""></a>
+                        <a href="#" class="bt" @click="posts()">Read more <img src="@/assets/Imgs/arrow-right.svg" class="arr" alt=""></a>
                         </div>
                         </div>
                 </b-col>

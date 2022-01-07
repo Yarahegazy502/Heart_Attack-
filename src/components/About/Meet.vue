@@ -3,7 +3,7 @@
    <b-container class="bv-example-row text-center">
 
   <b-row cols-lg="3" cols-md="2" cols-sm="2">
-    <b-col>
+    <b-col >
         <div class="meet_content">
         <div class="meet_img">
             <img src="@/assets/Imgs/n.png" alt="">

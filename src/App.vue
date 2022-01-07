@@ -3,8 +3,9 @@
     <div id="nav">
       
       <navbar/>
-
+      <ToTop/>
       <Footer/>
+      
     </div>
     
   </div>
@@ -17,9 +18,10 @@
 <script>
 import Navbar from './components/Navbar.vue';
 import Footer from './components/Footer.vue';
+import ToTop from './components/ToTop.vue'
 export default {
   components:{
-    Navbar,Footer
+    Navbar,Footer,ToTop
   }
 };
 
